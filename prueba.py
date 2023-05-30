@@ -1,1 +1,1 @@
-print('WASAAAAAAAAAAAAAAAAAAAAA')
+print('Muerte a la eletronica')
